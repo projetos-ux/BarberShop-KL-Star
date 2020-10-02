@@ -1,0 +1,24 @@
+{
+  "name": "barbearia-kl-star",
+  "version": "1.0.0",
+  "description": "Projeto do site da barbearia KLStar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelhsilva5527/Barbearia-KL-Star.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelhsilva5527/Barbearia-KL-Star/issues"
+  },
+  "homepage": "https://github.com/samuelhsilva5527/Barbearia-KL-Star#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
